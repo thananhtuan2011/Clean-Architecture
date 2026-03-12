@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clean-Architecture\\Clean-Architech-New\\CleanArChitectureBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9896B527-5088-40C3-8591-CD109E5FB8F6}|CleanArChitectureBooking\\CleanArChitectureBooking.csproj|d:\\clean-architecture\\clean-architech-new\\cleanarchitecturebooking\\cleanarchitecturebooking\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896B527-5088-40C3-8591-CD109E5FB8F6}|CleanArChitectureBooking\\CleanArChitectureBooking.csproj|solutionrelative:cleanarchitecturebooking\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Clean-Architecture\\Clean-Architech-New\\CleanArChitectureBooking\\CleanArChitectureBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CleanArChitectureBooking\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Clean-Architecture\\Clean-Architech-New\\CleanArChitectureBooking\\CleanArChitectureBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CleanArChitectureBooking\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:29:44.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
